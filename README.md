@@ -1,2 +1,2 @@
 # budgety
-budget app to monitor your expenses
+budget to look up to your expenses
